@@ -15,3 +15,9 @@ conteinerizando as partes da aplicação, criando suas conexões e orquestrando 
 </div>
 <h1>Resultado</h1>
 <img src='img/docker-todo.png' />
+<h1>Contato</h1>
+<div>
+  <a href="https://www.linkedin.com/in/peterson-paganelli-1832b91b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Peterson-Paganelli" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <p>Email: petersonpaganelli@outlook.com</p>
+</div>
